@@ -6,4 +6,3 @@ hideBackToTop: true
 summary: "First Post!"
 ---
 ## Hello
-My name is shaurya and i like to play fortnite with my friends on weekends but not really cuz no 
